@@ -1,0 +1,1 @@
+input("do you like sonic")
