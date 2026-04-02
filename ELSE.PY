@@ -6,3 +6,12 @@ if (sale_amount > actual_cost):
     print("Total Profit = {0}".format(amount))
 else:
     print("No Profit!!!")
+
+
+
+
+
+
+
+
+    
