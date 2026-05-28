@@ -1,2 +1,0 @@
-text = "Congratulations"
-print(text.upper())
